@@ -1,0 +1,21 @@
+# Applications List
+
+- Anydesk
+- DBeaver
+- Google Chrome
+- Opera
+- RustDesk
+- Slack
+- Vivaldi
+- Zoom
+- Telegram
+- Cursor
+- Gravit
+- MarkText
+- NVM
+- Caffeine
+- JDK
+- JRM
+- Discord
+- Postman
+- Firefox DEV
