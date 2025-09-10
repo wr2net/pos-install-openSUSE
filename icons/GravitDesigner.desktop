@@ -1,0 +1,15 @@
+[Desktop Entry]
+Categories=Designer;
+Comment=Gravit Designer
+Exec=/home/wagner/Programas/APPIMAGE/GravitDesigner.AppImage --disable-gpu-sandbox
+Icon=/home/wagner/Imagens/Icon/gravit.png
+MimeType=x-scheme-handler/designer;text/html;
+Name=Gravit
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

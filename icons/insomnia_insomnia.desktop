@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Development;
+Comment=The Collaborative API Design Tool
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/insomnia_insomnia.desktop /snap/bin/insomnia %U
+Icon=/home/wagner/Imagens/Icon/insomnia.png
+Keywords=GraphQL;REST;gRPC;SOAP;openAPI;GitOps;
+MimeType=x-scheme-handler/insomnia;
+Name=Insomnia
+NoDisplay=false
+Path=
+StartupNotify=true
+StartupWMClass=Insomnia
+Terminal=false
+TerminalOptions=insomnia
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+X-SnapInstanceName=insomnia

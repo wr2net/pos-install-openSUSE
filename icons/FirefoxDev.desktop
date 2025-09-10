@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Terminal=false
+Exec=/home/wagner/Programas/TAR/firefox/firefox
+Name=FirefoxDev
+Comment=Browser for Developers!
+Categories=Development;
+Icon=/home/wagner/Programas/TAR/firefox/browser/chrome/icons/default/default48.png

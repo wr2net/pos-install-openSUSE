@@ -1,0 +1,14 @@
+[Desktop Entry]
+Categories=Settings;
+Comment=Keyboard Light Control
+Exec=/home/wagner/Programas/APPIMAGE/Lenovo-Y720-Keyboard-LED-Controller-2.0.2.AppImage --disable-gpu-sandbox
+Icon=/home/wagner/Imagens/Icon/881675.png
+Name=Lenovo Y720
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Audio;Music;Player;AudioVideo;
+Comment=
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/spotify_spotify.desktop /snap/bin/spotify %U --disable-gpu-sandbox
+GenericName=Music Player
+Icon=spotify-client
+MimeType=x-scheme-handler/spotify;
+Name=Spotify
+NoDisplay=false
+Path=
+StartupNotify=true
+StartupWMClass=spotify
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+X-SnapInstanceName=spotify

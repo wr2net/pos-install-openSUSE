@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=
+Exec=/home/wagner/Programas/APPIMAGE/Cursor.AppImage
+Icon=/home/wagner/Imagens/Icon/cursor.png
+Name=Cursor
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

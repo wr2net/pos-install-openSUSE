@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=social;
+Comment=An unofficial whatsApp client for Linux
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/kesty-whatsapp_kesty-whatsapp.desktop /snap/bin/kesty-whatsapp %U
+Icon=/snap/kesty-whatsapp/41/meta/gui/icon.png
+Name=Whatsapp
+NoDisplay=false
+Path=
+StartupNotify=true
+StartupWMClass=kesty-whatsapp
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+X-SnapAppName=kesty-whatsapp
+X-SnapInstanceName=kesty-whatsapp

@@ -1,0 +1,15 @@
+[Desktop Entry]
+Categories=Utility
+Comment=The Collaborative API Design Tool
+Exec=/home/wagner/Programas/TAR/Postman/Postman --disable-gpu-sandbox
+Icon=/home/wagner/Programas/TAR/Postman/app/icons/icon_128x128.png
+Name=Postman
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+X-SnapInstanceName=postman

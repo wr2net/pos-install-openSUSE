@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=
+Exec=/home/wagner/Programas/APPIMAGE/marktext-x86_64.AppImage
+Icon=/home/wagner/Imagens/Icon/mark_text.png
+Name=MarkText
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
